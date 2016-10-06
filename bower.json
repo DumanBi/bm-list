@@ -1,0 +1,19 @@
+{
+  "name": "@socfafbmlist/bm-list",
+  "description": "bmList directive",
+  "main": [
+    "index.js",
+    "template.js"
+  ],
+  "authors": "DumanBi",
+  "license": "ISC",
+  "keywords": "bmList",
+  "homepage": "https://github.com/DumanBi/bm-list",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

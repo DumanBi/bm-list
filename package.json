@@ -1,0 +1,22 @@
+{
+  "name": "@socfafbmlist/bm-list",
+  "version": "0.0.1",
+  "description": "bmList directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "npm version minor -m \"Release v%s\" && npm publish && git push --follow-tags",
+    "patch": "npm version patch -m \"Patch v%s\" && npm publish && git push --follow-tags"
+  },
+  "keywords": [
+    "bt-list"
+  ],
+  "author": "DumanBi",
+  "url" : "https://github.com/DumanBi/bm-list",
+  "email" : "bidumsa@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0"
+  }
+}
