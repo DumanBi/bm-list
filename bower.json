@@ -8,7 +8,7 @@
   "authors": "DumanBi",
   "license": "ISC",
   "keywords": "bmList",
-  "homepage": "https://github.com/DumanBi/bm-list",
+  "homepage": "https://github.com/DumanBi/bm-list.git",
   "ignore": [
     "**/.*",
     "node_modules",
