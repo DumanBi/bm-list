@@ -8,7 +8,7 @@
     .module('soc-faf-bmList')
     .directive('bmList', bmList);
 
-  function bmList(AppModel) {
+  function bmList() {
     var directive = {
       restrict: 'E',
       templateUrl: 'list.directive.html',
